@@ -1,5 +1,9 @@
 # bertie
 
+> [!IMPORTANT]
+> Development has moved to the [`bertie` monorepo](https://github.com/bertie-mc/bertie/tree/main/pack).
+> This repository is retained read-only for historical tags, releases, and issues.
+
 An exploration, technology and magic modpack for **NeoForge 1.21.1**.
 
 **About 500 mods.** Managed with [packwiz](https://packwiz.infra.link/).
